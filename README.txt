@@ -1,0 +1,4 @@
+# LR3_SAP_CUDA
+
+AMD Ryzen 5 5600U + NVIDIA GeForce RTX 3050
+Time on GPU: 17.0518 ms
